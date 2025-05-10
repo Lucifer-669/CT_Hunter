@@ -1,4 +1,3 @@
-```markdown
 # Medical Text Classification with BERT 🏥
 
 基于BERT的医疗文本多标签分类系统，适用于医学报告自动标注任务。使用PyTorch+Transformers实现，支持混合精度训练和梯度检查点优化。
